@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sencinia
+- 👋 Hi, I’m Sebastien
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on nothing at the moment.
