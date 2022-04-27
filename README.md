@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sebastien
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 💞️ I currently use MSSQL in my professional life.
 - 📫 How to reach me sebastien.encinia@gmail.com
 
 <!---
